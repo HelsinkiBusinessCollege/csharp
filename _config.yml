@@ -14,4 +14,4 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
 # Footer text for the license
-footer_content: "Copyright &copy; 2021 Markus Räisänen. More information about <a href=\"/csharp/license\">the licensing.</a>"
+footer_content: "Copyright &copy; 2021 Markus Räisänen for Helsinki Business College. More information about <a href=\"/csharp/license\">the licensing.</a>"
